@@ -46,7 +46,7 @@
 
 		//método destrutor finaliza objeto
 		function __destruct(){
-			echo "Objeto Conta {$this->codigo} de {$this->titular->nome} finalizada ... <br>";
+			echo "<br>Objeto Conta {$this->codigo} de {$this->titular->nome} finalizada ... <br>";
 		}
 
 

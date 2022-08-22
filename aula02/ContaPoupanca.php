@@ -19,7 +19,7 @@
 				parent::retirar($quantia);
 				}
 				else{
-					echo "Retirada não permitida ... <br>";
+					echo "<br>Retirada não permitida ... <br>";
 					return false;
 				}
 				//retirada permitida
