@@ -13,7 +13,7 @@
 
 	echo "{$carlos->nome} é formado em: {$carlos->escolaridade} <br>";
 	
-	$carlos->formar('Técnico em Eletricidade');
+	$carlos->formar('Técnico em desenvolvimento de sistemas');
 
 	echo "{$carlos->nome} é formado em: {$carlos->escolaridade} <br>";
 	echo "{$carlos->nome} possui {$carlos-> idade} anos <br>";

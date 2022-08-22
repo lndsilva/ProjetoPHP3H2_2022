@@ -47,7 +47,7 @@ class Pessoa
 
 	function __destruct(){
 
-		echo "Objeto {$this->nome} finalizado ... <br>";
+		echo "<br>Objeto {$this->nome} finalizado ... <br>";
 	}
 }
 
