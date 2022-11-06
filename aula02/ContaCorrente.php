@@ -10,7 +10,8 @@
 			$this->limite = $limite;
 		}
 		
-		//método Retirar (sobrescrito) verifica se a $quantia retirada está dentro do limite.
+		//método Retirar (sobrescrito) verifica se a $quantia 
+		//retirada está dentro do limite.
 		function Retirar($quantia)
 		{
 			//imposto sobre movimentação financeira
